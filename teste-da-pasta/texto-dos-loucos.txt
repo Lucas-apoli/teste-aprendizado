@@ -1,8 +1,12 @@
 Só os loucos sabem
 Só os loucos sabem
 
-<<<<<<< HEAD
+
+
 ai ai ai ai ai ai
-=======
+
 tchucobrow thucobrey charlie brown
->>>>>>> 6c26fa9064b310a6d22234494abf4b65753b8432
+
+
+
+
